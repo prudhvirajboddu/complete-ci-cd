@@ -1,3 +1,6 @@
+#artifacts folder
+target/*
+
 # Compiled class file
 *.class
 
