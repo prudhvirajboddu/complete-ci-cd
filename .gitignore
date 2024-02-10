@@ -1,5 +1,5 @@
 #artifacts folder
-target/*
+./target/*/*
 
 # Compiled class file
 *.class
